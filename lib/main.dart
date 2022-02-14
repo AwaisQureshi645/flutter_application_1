@@ -81,7 +81,6 @@ class HomePage extends StatelessWidget {
 class displays extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    // TODO: implement build
     return Scaffold(
       body: getListView(),
     );
